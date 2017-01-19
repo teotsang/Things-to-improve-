@@ -1,6 +1,7 @@
 5 important things that can be improved 
 
-1. The page layout can be put at the center or even aquire the whole page
-2. Navigation bar doesnt not state the link could be redirecting to other websites
-3. Can change to a better font, use a larger font size and the color of words should not be very close to the background
-4. 
+1. The page layout can be put at the center or even aquire the whole page instead of putting everything to the left
+2. Navigation bar doesnt not state the link could be redirecting to other websites such as link to Amazon or Startup School
+3. Can change to a better font, use a larger font size and the color of words should not be similar to the background or else it is hard to read
+4. Some wordings on the navigation bar is unclear because of using non-frequenly used short forms, such as H&P and RAQs
+5. Some pages are too long that a "Back to the top" button should be added to the page.
